@@ -1,12 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 30 18:57:41 2021
-
-@author: adityakumar
-"""
-
-
 
 
 from graph_generator import graph_generation
