@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov  6 22:18:06 2021
-
-@author: peeyushkumar
+@author: Aditya kumar
 
 numpy version used : '1.19.5'
 """
