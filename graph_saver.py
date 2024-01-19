@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 19 14:29:24 2021
-
-@author: peeyushkumar
-"""
 
 import graph_generator
 
