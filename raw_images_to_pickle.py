@@ -1,12 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 30 23:55:06 2021
-
-@author: peeyushkumar
-"""
-
-
 
 ''' This module loads the images generated to a an array and then dumps them in a  PICKLE file '''
 
